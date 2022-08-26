@@ -16,8 +16,8 @@ export const config = {
     city: "十堰",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
-      {"name": "欢崽", "year": "2002", "date": "11-19", "type": 'r'},
-      {"name": "小狸", "year": "2002", "date": "02-22", "type": 'r'},
+      {"name": "欢崽", "year": "2002", "date": "11-19", "type": 'new'},
+      {"name": "小狸", "year": "2002", "date": "02-22", "type": 'new'},
     ],
     // 在一起的日子，格式同上
     loveDate: "2022-12-05",
